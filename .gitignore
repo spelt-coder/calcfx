@@ -1,0 +1,9 @@
+#eclipse
+bin/
+#maven
+/target/
+.project
+.classpath
+local.properties
+*.settings
+
